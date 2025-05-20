@@ -26,25 +26,17 @@ This is an AI-powered chat application built using **Python**, **Flask**, and **
 - **API:** Google Gemini API (gemini-1.5-flash)
 
 ## 🔧 Installation & Setup
-
 1. ### Clone the Repository
-
-git clone https://github.com/yourusername/Gemini-Chat-Appication-project.git
-
-cd Gemini-Chat-Appication-project
-
-
+    ```sh
+    git clone https://github.com/yourusername/Gemini-Chat-Appication-project.git
+    cd Gemini-Chat-Appication-project
+    ```
 2. ### Install Dependencies
-
- pip install -q -U google-genai
-
+  - pip install -q -U google-genai
 3. ### Run the Application
-
-python app.py
-
+  - python app.py
 4. ### Access the Application
-
-Open 'http://127.0.0.1:5000' in your browser
+   - Open 'http://127.0.0.1:5000' in your browser
  
 
 
